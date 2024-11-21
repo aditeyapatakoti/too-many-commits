@@ -10,4 +10,4 @@ for i in range(ip):
 print("Commited " + str(ip) + " times")
 
 if autoPush == "y":
-	os.system('git push')
+	os.system('git push')																							
